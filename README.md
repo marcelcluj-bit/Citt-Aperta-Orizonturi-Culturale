@@ -46,3 +46,5 @@ Citt-Aperta-Orizonturi-Culturale/
 
 📜 LicențăAcest proiect este distribuit sub licența MIT – liber de utilizat, modificat și distribuit public.
 
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj)
