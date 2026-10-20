@@ -3,11 +3,6 @@
 > **Platformă Integrată de Turism Digital, Hub-uri de Socializare Artistică, Finanțare Public-Privată și Tokenizare pe Blockchain pentru Promovarea Patrimoniului Universal**
 
 ---
-# Città Aperta / Orizonturi Culturale 🏛️🎨
-
-> **Platformă Integrată de Turism Digital, Hub-uri de Socializare Artistică, Finanțare Public-Privată și Tokenizare pe Blockchain pentru Promovarea Patrimoniului Universal**
-
----
 
 ## 🌟 Despre Proiect
 
