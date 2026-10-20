@@ -35,6 +35,10 @@ Citt-Aperta-Orizonturi-Culturale/
 
 💶 Buget Estimativ General (€250.000 Total)Categorie BugetarăAlocareProcentDescrierePlatformă Web & Blockchain€75.00030%UI/UX, integrare tururi virtuale, smart contracteAmenajare & Închiriere Spațiu Fizic€60.00024%Chirie hub central, ecrane interactive, mobilierEchipă & Management€70.00028%Salarii dezvoltatori, curatori de artă, PR, managementMarketing & Sales B2B Travel€30.00012%Campanii digitale europene, târguri de turismFond de Rezervă€15.0006%Cheltuieli neprevăzute și fluctuații de costuri
 
+
+```
+...
+
 ⚙️ Utilizare & Instalare
 
 🐍 Modulul Python
