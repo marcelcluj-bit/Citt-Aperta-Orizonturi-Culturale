@@ -1,0 +1,22 @@
+{
+    "project": "Città Aperta / Orizonturi Culturale",
+    "version": "1.0.0",
+    "total_budget_eur": 250000.0,
+    "virtual_tour_model": "Free / Public Open Access",
+    "monetization_strategy": "B2B Travel Packages, Physical Hub Services & Tokenization",
+    "charity_fund_percentage": 15.0,
+    "allocations_eur": {
+        "Dezvoltare Platforma Web & Blockchain": 75000.0,
+        "Amenajare & Inchiriere Spatiu Fizic": 60000.0,
+        "Echipa, Personal & Management": 70000.0,
+        "Marketing, Promovare & B2B Travel": 30000.0,
+        "Fond de Rezerva & Imprevizibile": 15000.0
+    },
+    "token_details": {
+        "name": "Citta Aperta Cultural Token",
+        "symbol": "CACT",
+        "total_supply": 1000000,
+        "standard": "ERC-20"
+    },
+    "license": "MIT / Open-Source Public Domain"
+}
