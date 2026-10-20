@@ -37,10 +37,19 @@ Citt-Aperta-Orizonturi-Culturale/
 
 ⚙️ Utilizare & Instalare
 
-🐍 Modulul PythonRularea scriptului pentru generarea manifestului dinamic:Bashpython src/citta_aperta.py
+🐍 Modulul Python
+
+python src/citta_aperta.py
 
 
-⛓️ Smart Contract (Solidity)Contractul este redactat în Solidity ^0.8.20 și utilizează standardul OpenZeppelin ERC-20:Nume Token: Citta Aperta Cultural TokenSimbol: CACTSupply Total: 1.000.000 CACT
+⛓️ Smart Contract (Solidity)
+Contractul este redactat în Solidity ^0.8.20 și utilizează standardul OpenZeppelin ERC-20:
+
+Nume Token: Citta Aperta Cultural Token
+
+Simbol: CACT
+
+Supply Total: 1.000.000 CACT
 
 
 📜 LicențăAcest proiect este distribuit sub licența MIT – liber de utilizat, modificat și distribuit public.
